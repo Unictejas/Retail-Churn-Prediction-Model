@@ -45,7 +45,11 @@ jupyter notebook notebooks/Retail_Churn_Prediction.ipynb
 ```
 4. Run cells to reproduce EDA, model training, and plots.
 
-## Notes
-- The dataset is synthetic for demonstration purposes.
-- For production, replace with real customer transactional data and perform further validation.
+
+👨‍💻 Author
+
+Tejas Khanzode
+Data Analyst | Python | Power BI | SQL
+📧 tejaskhanzode8555@gmail.com
+🔗 LinkedIn: Tejas Khanzode
 
