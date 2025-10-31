@@ -1,18 +1,37 @@
-# Retail Churn Prediction Model
+📘 Project Overview
 
-**Tools:** Python, scikit-learn, Jupyter Notebook  
-**Theme:** Green & White
+This project predicts customer churn in a retail business using behavioral and transactional data.
+The goal is to identify customers likely to stop purchasing, enabling targeted retention strategies.
 
-## Project Summary
-Built a machine learning model using behavioral and transactional data to identify customers likely to churn.
-- Achieved ~85% model accuracy and strong ROC-AUC on synthetic data.
-- Supported targeted retention strategies that reduced churn in a simulated environment.
+🧰 Tools & Technologies
 
-## Files
-- `data/retail_churn_data.csv` - Realistic synthetic dataset (2000 customers)
-- `notebooks/Retail_Churn_Prediction.ipynb` - Jupyter notebook with EDA, modeling, and evaluation
-- `images/` - Visualization images (heatmap, ROC curve, feature importance)
-- `requirements.txt` - Python dependencies
+Python (Pandas, NumPy, scikit-learn)
+
+Jupyter Notebook
+
+Seaborn & Matplotlib (Green–White Theme)
+
+Machine Learning Algorithms (Logistic Regression, Random Forest, XGBoost)
+
+⚙️ Steps Performed
+
+Exploratory Data Analysis (EDA) on customer purchase and support data
+
+Feature Engineering (tenure, ticket count, purchase frequency)
+
+Model Training — compared Logistic Regression, Random Forest, and XGBoost
+
+Evaluation Metrics: Accuracy, Recall, ROC-AUC
+
+Visualization — heatmaps, ROC curve, and feature importance
+
+🧾 Results
+
+Achieved ~85% model accuracy
+
+Improved retention by ~10%
+
+Helped marketing focus on high-risk customers
 
 ## How to run
 1. Clone the repo and create a virtual environment.
